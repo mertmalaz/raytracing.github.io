@@ -1,4 +1,4 @@
-# Raytracing using OpenMP and CUDA
+# Raytracing using OpenMP and CUDA (Someday, hopefully)
 This project is an edited version of Peter Shirley's famous [Ray Tracing in One Weekend book](https://raytracing.github.io/books/RayTracingInOneWeekend.html). All the sources are retrieved from his [GitHub page](https://github.com/mertmalaz/raytracing.github.io). 
 
 Project Aim
